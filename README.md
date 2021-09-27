@@ -1,5 +1,5 @@
 # uni-second
-My projects from my second semester of college
+Projects from my first and second semester of college
 
 AiSD are algorithms and data structure which was a course on my 2nd semester of college
 
