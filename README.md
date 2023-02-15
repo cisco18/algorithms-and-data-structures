@@ -1,2 +1,2 @@
 
-Projects from my college course "Algorithms and Data Structures".
+Java exercises from "Algorithms and Data Structures" course march 2021.
